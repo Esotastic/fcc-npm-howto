@@ -1,0 +1,22 @@
+{
+  "name": "@esotastic/fcc-npm-howto",
+  "version": "1.0.0",
+  "description": "FCC NPM Tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Chris Jimenez",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Esotastic/fcc-npm-howto.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Esotastic/fcc-npm-howto/issues"
+  },
+  "homepage": "https://github.com/Esotastic/fcc-npm-howto#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
