@@ -1,6 +1,6 @@
 {
   "name": "@esotastic/fcc-npm-howto",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "FCC NPM Tutorial",
   "main": "index.js",
   "scripts": {
